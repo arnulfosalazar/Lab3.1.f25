@@ -1,3 +1,16 @@
+////////////////////////////////////////////////////////////////
+//
+// Name: Arnulfo Salazar III
+// Date: 09/24/2025
+// Class: CSCI 1470.04
+// Semester: Fall 2025
+// Instructor: Dr. Jonatan Reyes
+//
+// Program Name: Angles and Conversions
+// Program Description: Angles from a file are converted to radians and are computed to output sin cos and tan for each one
+//
+////////////////////////////////////////////////////////////////
+
 #include <iostream>
 #include <fstream>
 #include <cctype>
